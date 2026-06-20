@@ -123,3 +123,8 @@ footer {
   padding: 50px;
   text-align: center;
 }
+
+.location {
+    list-style-type: none;
+}
+    
